@@ -1,6 +1,9 @@
 {
   "packs": [
-    "Shinnyan.json"
+    "Shinnyan.json",
+    "NekoTempest.json",
+    "myadestes_1_nacho.json",
+    "genshin_kokomi_pack.json"
   ],
   "homeserver_url": "https://fedora.ems.host"
 }
