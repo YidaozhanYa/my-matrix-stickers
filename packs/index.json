@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "Shinnyan.json"
+  ],
+  "homeserver_url": "https://fedora.ems.host"
+}
